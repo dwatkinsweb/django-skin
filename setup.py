@@ -1,9 +1,7 @@
 #!/usr/bin/env python
 # coding: utf8
 
-from __future__ import with_statement
 from setuptools import setup
-
 
 setup(
     name='django-skin',
