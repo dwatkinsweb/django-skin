@@ -2,13 +2,13 @@
 # coding: utf8
 
 from __future__ import with_statement
-from setuptools import setup, find_packages
+from setuptools import setup
 
 
 setup(
     name='django-skin',
     version='0.1dev',
-    packages=find_packages(),
+    packages=['skin', ],
     url='https://github.com/dwatkinsweb/django-skin',
     license='MIT',
     author='David Watkins',
