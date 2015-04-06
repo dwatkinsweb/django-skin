@@ -5,7 +5,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='django-skin',
-    version='0.1dev',
+    version='0.1',
     packages=find_packages(),
     url='https://github.com/dwatkinsweb/django-skin',
     license='MIT',
