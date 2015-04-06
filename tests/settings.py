@@ -25,6 +25,7 @@ INSTALLED_APPS = [
     'django_nose',
     'skin',
     'template_loader',
+    'south'
 ]
 
 MEDIA_URL = '/media/'  # Avoids https://code.djangoproject.com/ticket/21451
