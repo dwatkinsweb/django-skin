@@ -1,0 +1,11 @@
+[
+    {
+        "pk": 1,
+        "model": "skin.SiteSkin",
+        "fields": {
+            "site": 1,
+            "name": "testskin",
+            "path": "testskin"
+        }
+    }
+]
