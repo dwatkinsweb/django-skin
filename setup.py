@@ -5,7 +5,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='django-skin',
-    version='0.1',
+    version='0.1.1',
     packages=find_packages(),
     url='https://github.com/dwatkinsweb/django-skin',
     license='MIT',
@@ -14,7 +14,7 @@ setup(
     description='Add template skins to django.',
     platforms='any',
     install_requires=[
-        'Django==1.6'
+        'Django>=1.6'
     ],
     classifiers=[
         'Environment :: Web Environment',
